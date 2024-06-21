@@ -20,7 +20,9 @@ This project implements an object tracker using OpenCV and a Kalman filter. The 
 
 To run this project, you need to have Python installed along with the required libraries. You can install the necessary libraries using pip:
 
-```pip install opencv-python-headless numpy```
+```
+pip install opencv-python-headless numpy
+```
 
 ## Usage
 **Download the project:**
