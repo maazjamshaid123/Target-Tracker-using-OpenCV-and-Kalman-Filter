@@ -1,8 +1,10 @@
 # Target Tracker using OpenCV and Kalman Filter
 ![Demo Video](https://github.com/maazjamshaid123/Target-Tracker-using-OpenCV-and-Kalman-Filter/blob/main/demo.mp4)
 ## Overview
-
 This project implements an object tracker using OpenCV and a Kalman filter. The tracker allows a user to select a point in a video stream, then tracks the selected object using the MIL (MedianFlow, KCF, CSRT, GOTURN) tracker provided by OpenCV. Additionally, the Kalman filter is used to predict the state of the object being tracked, providing a more stable and accurate tracking experience.
+
+## Architechture of the Project
+![tgt_tracker_mil](https://github.com/maazjamshaid123/Target-Tracker-using-OpenCV-and-Kalman-Filter/assets/81762527/98127751-d3d0-484b-87e2-ad7cc94f10a6)
 
 ## Features
 
