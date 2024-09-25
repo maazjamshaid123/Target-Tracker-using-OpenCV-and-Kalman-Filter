@@ -31,7 +31,7 @@ pip install opencv-python-headless numpy
 **Download the project:**
 ```
 git clone https://github.com/maazjamshaid123/Target-Tracker-using-OpenCV-and-Kalman-Filter.git
-cd your-repo
+cd Target-Tracker-using-OpenCV-and-Kalman-Filter
 ```
 
 ## Select an object:
