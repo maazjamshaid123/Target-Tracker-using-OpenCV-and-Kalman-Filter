@@ -30,7 +30,7 @@ pip install opencv-python-headless numpy
 ## Usage
 **Download the project:**
 ```
-git clone https://github.com/yourusername/your-repo.git
+git clone https://github.com/maazjamshaid123/Target-Tracker-using-OpenCV-and-Kalman-Filter.git
 cd your-repo
 ```
 
